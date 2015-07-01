@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PaintViewController.h
 //  JWDrawingBoard
 //
 //  Created by cuizm on 15/6/30.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PaintViewController : UIViewController
 
 @end
-
